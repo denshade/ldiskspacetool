@@ -1,0 +1,9 @@
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\bin\Debug\ldiskspaceview.exe.config
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\bin\Debug\ldiskspaceview.exe
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\bin\Debug\ldiskspaceview.pdb
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\ldiskspaceview.csprojResolveAssemblyReference.cache
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FileSystemView.resources
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\ldiskspaceview.csproj.GenerateResource.Cache
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\ldiskspaceview.exe
+C:\Users\Lieven\Documents\GitHub\ldiskspacetool\WindowsFormsApplication1\obj\Debug\ldiskspaceview.pdb
