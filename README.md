@@ -6,5 +6,4 @@ This is a little c# tool I use to map the disk usage. It flings out a csv.
 You can open up the disk report in your favorite csv editor.
 
 
-You can download it here:
 [download here](https://raw.githubusercontent.com/denshade/ldiskspacetool/master/WindowsFormsApplication1/bin/Debug/ldiskspaceview.exe)
